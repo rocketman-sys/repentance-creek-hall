@@ -49,7 +49,7 @@ From the profile picture signage (Available For Hire):
 
 ## 5. Pizza Night — Regular Event
 
-- Format: Monthly Saturday evenings, from 4:00pm until sold
+- Format: Usually bi-monthly — Saturday evenings, from 4:00pm until sold out
 - Beer and wine: Available at event, or BYO
 - No dogs policy
 - Run by volunteers
