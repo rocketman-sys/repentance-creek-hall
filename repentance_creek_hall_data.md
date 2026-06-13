@@ -102,7 +102,7 @@ Great copy to draw from for website tone:
 ## 8. Photos and Image Links (Facebook)
 
 ### Cover / Hero Photo
-- Hall building exterior — green/white weatherboard, raised on timber stumps, lush green surrounds
+- Hall building exterior — heritage green and yellow weatherboard, raised on timber stumps, lush green surrounds
 - URL: https://www.facebook.com/photo/?fbid=1086543506831491&set=a.462125995939915
 
 ### Photo Library
@@ -129,7 +129,7 @@ URL pattern: https://www.facebook.com/photo.php?fbid=[ID]&set=pb.100064275566443
 
 ## 9. Building Description (from photos)
 
-- Green and white weatherboard construction
+- Heritage green and yellow weatherboard construction (repainted 2026; previously green and white)
 - Raised on timber/concrete stumps (Queensland-style)
 - Ramp and steps to main entrance
 - Surrounded by dense subtropical bushland / rainforest

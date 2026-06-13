@@ -1,14 +1,16 @@
-/* Repentance Creek Public Hall — warm heritage palette */
+/* Repentance Creek Public Hall — heritage green & yellow palette */
 
 :root {
-  --cream: #f7f2e8;
-  --cream-dark: #ebe3d4;
-  --timber: #5c4a3a;
-  --timber-light: #7a6552;
-  --gold: #a67c2a;
-  --gold-light: #c9a04a;
-  --forest: #3d5a47;
-  --forest-light: #4d7260;
+  --cream: #f9f4e4;
+  --cream-dark: #efe8d0;
+  --timber: #3d4a36;
+  --timber-light: #4a5c42;
+  --gold: #c9a832;
+  --gold-light: #dbbe55;
+  --forest: #2f4a38;
+  --forest-light: #3d5c47;
+  --hall-yellow: #e2c84a;
+  --hall-green: #2f4a38;
   --ink: #2c2416;
   --ink-muted: #5a5248;
   --white: #fffdf8;
@@ -278,14 +280,14 @@ p {
 }
 
 .btn--dark {
-  background: var(--timber);
+  background: var(--hall-green);
   color: var(--white);
-  border-color: var(--timber);
+  border-color: var(--hall-green);
 }
 
 .btn--dark:hover {
-  background: var(--timber-light);
-  border-color: var(--timber-light);
+  background: var(--forest-light);
+  border-color: var(--forest-light);
   color: var(--white);
 }
 
@@ -406,7 +408,7 @@ p {
   flex-shrink: 0;
   width: 4.5rem;
   text-align: center;
-  background: var(--timber);
+  background: var(--hall-green);
   color: var(--white);
   border-radius: var(--radius);
   padding: 0.75rem 0.5rem;
@@ -520,9 +522,9 @@ p {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(rgba(92, 74, 58, 0.88), rgba(92, 74, 58, 0.92)),
-    url("../images/pizza-oven-twilight.jpg") center / cover no-repeat;
-  filter: sepia(0.15);
+    linear-gradient(rgba(47, 74, 56, 0.88), rgba(47, 74, 56, 0.92)),
+    url("../images/hall-exterior-full.jpg") center / cover no-repeat;
+  filter: sepia(0.08);
 }
 
 .page-hero--gallery .container {
@@ -680,7 +682,7 @@ p {
 /* Page header (inner pages) */
 
 .page-hero {
-  background: var(--timber);
+  background: var(--hall-green);
   color: var(--white);
   padding: 3.5rem 0;
   text-align: center;
@@ -700,7 +702,7 @@ p {
 /* Footer */
 
 .site-footer {
-  background: var(--timber);
+  background: var(--hall-green);
   color: rgba(255, 253, 248, 0.75);
   padding: 3rem 0 2rem;
   margin-top: 2rem;
