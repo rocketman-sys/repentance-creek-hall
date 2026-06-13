@@ -1,0 +1,6 @@
+.DS_Store
+.vercel
+*.log
+
+# Working previews — production images live in images/*.jpg
+images/pizza-album/
